@@ -1,7 +1,9 @@
 TetrisBot
 =========
 Bot to play facebook's "TetrisFriends"
+
 Developed: Spring 2012
+
 Languages: C#
 
 ![alt tag](http://i.imgur.com/fWSWtYM.jpg)
